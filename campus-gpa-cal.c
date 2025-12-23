@@ -50,7 +50,7 @@ int main() {
             printf("\nCongratulations! You are on the Dean's List.");
         }
 
-        // Class Determination
+        // Class Determinatin
         printf("\nClass Status: ");
         if (semesterGPA >= 3.70) printf("First Class");
         else if (semesterGPA >= 3.30) printf("Second Class Upper Division");
